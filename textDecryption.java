@@ -60,3 +60,7 @@ public class textDecryption {
 	}
 
 }
+
+//This code has a built in encryption algorithm, and when ran, the user can use the key mapping to write an encrypted message
+//Uppercase letters are plain text, the lowercase letters are cipher text.
+//The user will enter the cipher text to output their desired plaintext
