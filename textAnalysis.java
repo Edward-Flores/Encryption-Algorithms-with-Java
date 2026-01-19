@@ -67,7 +67,12 @@ public class textAnalysis {
 	    }
  
 }
-	
+
+//Developed a Java-based cryptanalysis tool to decrypt monoalphabetic substitution ciphers using statistical frequency analysis.
+//Implemented character frequency counting, percentage-based analysis, and sorting algorithms to identify probable plaintext mappings.
+//Applied real-world English letter frequency distributions to reconstruct encrypted messages.
+//Preserved original text structure, punctuation, and letter casing during decryption.
+//Demonstrated practical weaknesses of classical encryption methods and reinforced cryptographic security principles.
 	
 
 
