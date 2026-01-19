@@ -53,3 +53,6 @@ public class subCipher {
 	}
 
 }
+
+//This code simulates a manual encryption process. When ran, it will prompt the user to enter their own encrypt for the alphabet. 
+//After each plaintext letter is encrypted, then it will ask the user to enter a plaintext, and it will output an ciphertext using your own encryption algorithm.
